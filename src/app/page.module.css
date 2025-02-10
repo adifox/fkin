@@ -61,6 +61,14 @@
   gap: 16px;
 }
 
+.title {
+  padding: 20px 30px;
+  background-color: #fff;
+  color: #000;
+  border-radius: 5px;
+  font-size: 32px;
+}
+
 .ctas a {
   appearance: none;
   border-radius: 128px;
@@ -93,6 +101,9 @@ a.secondary {
   grid-row-start: 3;
   display: flex;
   gap: 24px;
+}
+.footerText {
+  text-align: center;
 }
 
 .footer a {
